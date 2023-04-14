@@ -3,7 +3,7 @@
 
 
 def minOperations(n):
-    """ Set minimum operations """
+    """  calculates the minimum number of operations required to reach the integer n by starting from 1 and either multiplying by 2 or dividing by the integer i. """
     if n <= 1:
         return 0
     i = 2
