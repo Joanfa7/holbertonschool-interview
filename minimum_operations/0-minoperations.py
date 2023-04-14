@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-""" """
+""" Set minimum operations"""
+
 
 def minOperations(n):
-    """ """
+    """ Set minimum operations """
     if n <= 1:
         return 0
     i = 2
